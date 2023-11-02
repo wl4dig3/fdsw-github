@@ -11,6 +11,10 @@ body {
   background-position: left;
 }
 
+.nav-text {
+  font-family: cursive;
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
