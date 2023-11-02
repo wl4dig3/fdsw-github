@@ -17,6 +17,16 @@ body {
 
 /* Mis trabajos */
 
+.img1 {
+  background-image: url('../img/DJI_0053.jpg');
+}
+.img2 {
+  background-image: url('../img/DJI_0022.jpg');
+}
+.img3 {
+  background-image: url('../img/DJI_LOS_DOMENICOS\ .jpg');
+}
+
 #Mis-trabajos .image-top {
   height: 250px;
   background-repeat: no-repeat;
